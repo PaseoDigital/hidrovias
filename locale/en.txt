@@ -1,0 +1,124 @@
+#: locale=en
+
+## Action
+
+### URL
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+
+## Media
+
+### Title
+video_E00D7078_F0AC_AB9D_41E1_924C64883099.label = Bienvenidos
+video_E0627C56_F0AC_BB95_41CC_FAC7D84EDFC6.label = Bienvenidos_1
+panorama_8719AE88_8A92_6D3E_41D8_C1F1109A992E.label = Interior (1)
+panorama_879DC270_8A96_35EE_41D5_EFA7D39FC568.label = Interior (10)
+panorama_879E6347_8A96_1B32_41D1_B11B024DE905.label = Interior (11)
+panorama_879DF3ED_8A96_FAF6_41DB_BF9DAD197340.label = Interior (12)
+panorama_879DD42E_8A96_1D72_41D5_21B6EBF9DB38.label = Interior (13)
+panorama_879D0474_8A96_3DD6_41BE_46FF5DBDA254.label = Interior (14)
+panorama_879DD468_8A96_1DFE_41C2_CCE14B40B56C.label = Interior (15)
+panorama_879D3523_8A96_7F72_41DD_99FCBA325DE2.label = Interior (16)
+panorama_879D2600_8A96_1D2E_41C9_57D425549344.label = Interior (17)
+panorama_879D4625_8A96_3D76_41CD_FD2EC24AB624.label = Interior (18)
+panorama_9E101EA4_8AB2_2D76_41A7_CFA90EFCA557.label = Interior (19)
+panorama_87995ECC_8A92_2D36_41D2_E654725B560F.label = Interior (2)
+panorama_879D46B3_8A97_FD52_41D4_8F037EE0CFC0.label = Interior (20)
+panorama_98BD78C0_8A8E_152E_41D4_CE983EF9EAEA.label = Interior (21)
+panorama_879F652B_8A96_3F72_41D3_0A6039E5946B.label = Interior (22)
+panorama_879FA68D_8A96_1D36_41C4_F7E14FFE3A05.label = Interior (23)
+panorama_879A9F68_8A92_2BFE_41E0_B6B3CA1F5942.label = Interior (3)
+panorama_879AFFDA_8A91_EAD2_41DB_25EE45614C30.label = Interior (4)
+panorama_879D0047_8A96_1532_41B8_54E09FDF8020.label = Interior (5)
+panorama_879DE157_8A96_37D2_41DF_C575960343FC.label = Interior (6)
+panorama_879D618C_8A96_1736_41A2_D95F74A26054.label = Interior (7)
+panorama_879DE204_8A96_7536_41E0_17E4081F59E7.label = Interior (8)
+panorama_879D024B_8A96_1532_41DC_06B6DB49DCA0.label = Interior (9)
+video_E2C1D2A6_F0AC_ACB2_4197_F7852DB505AD.label = Medidas de seguridad
+video_E42D99BC_F09D_BC96_41ED_1E882CA79203.label = Politicas alhocol y drogas_1
+video_E623403D_F095_6B96_41C9_8FF67458F27A.label = Politicas_1
+video_E4825ED7_F095_F492_41DB_DC789DEB542C.label = Timonera_1
+panorama_2DC6053D_2023_E4B8_41BF_429D7C711262.label = Toma 1
+panorama_32D0E6C4_22FB_DBB1_41C0_27DCA1F25250.label = Toma 10
+panorama_2DBB0D3D_22A4_6ED0_41BB_89FA6155F876.label = Toma 2
+panorama_32689C59_22A7_AF53_4164_3B2BC23890B1.label = Toma 3
+panorama_2F9E7ADD_2020_6DF8_41A2_8587EA8A7438.label = Toma 4
+panorama_2C3A0B0C_22A5_AAB1_41C0_762FA152CD6E.label = Toma 5
+panorama_2D32FF22_22A4_6AF1_41A0_4FA574F06431.label = Toma 6
+panorama_32977CDD_22BD_AF50_41B6_643CBFB14D3D.label = Toma 7
+panorama_2C3DDE84_22BD_EBB1_4181_99424373956D.label = Toma 8
+panorama_2C2555B9_22BC_59D0_41BB_3747D003200C.label = Toma 9
+panorama_2E51225B_2020_5CF8_41B8_38988B79A3BF.label = Toma Aérea
+video_E5E861A1_F0ED_6CAE_41E2_07387D980892.label = cubierta principal
+video_E59E1444_F0F7_ABF6_41E2_C49015E734EF.label = cubierta principal externa_1
+video_E40A953E_F094_F592_41E1_152FAE783982.label = sala de maquinas_1
+
+### Video
+videolevel_E9C5222A_F0FC_EFB2_41D3_F36463363C9D.url = media/video_E00D7078_F0AC_AB9D_41E1_924C64883099_en.mp4
+videolevel_E9C5222A_F0FC_EFB2_41D3_F36463363C9D.posterURL = media/video_E00D7078_F0AC_AB9D_41E1_924C64883099_poster_en.jpg
+videolevel_E9C381FC_F0FC_EC96_41C0_65FF6499D353.url = media/video_E0627C56_F0AC_BB95_41CC_FAC7D84EDFC6_en.mp4
+videolevel_E9C381FC_F0FC_EC96_41C0_65FF6499D353.posterURL = media/video_E0627C56_F0AC_BB95_41CC_FAC7D84EDFC6_poster_en.jpg
+videolevel_E9C221D3_F0FC_EC92_41D3_6BA4C9309887.url = media/video_E2C1D2A6_F0AC_ACB2_4197_F7852DB505AD_en.mp4
+videolevel_E9C221D3_F0FC_EC92_41D3_6BA4C9309887.posterURL = media/video_E2C1D2A6_F0AC_ACB2_4197_F7852DB505AD_poster_en.jpg
+videolevel_E9DB22D1_F0FC_ECEE_41D7_1FA2F3E5BEB0.url = media/video_E40A953E_F094_F592_41E1_152FAE783982_en.mp4
+videolevel_E9DB22D1_F0FC_ECEE_41D7_1FA2F3E5BEB0.posterURL = media/video_E40A953E_F094_F592_41E1_152FAE783982_poster_en.jpg
+videolevel_E9D8227D_F0FC_EF96_41ED_041F527EC929.url = media/video_E42D99BC_F09D_BC96_41ED_1E882CA79203_en.mp4
+videolevel_E9D8227D_F0FC_EF96_41ED_041F527EC929.posterURL = media/video_E42D99BC_F09D_BC96_41ED_1E882CA79203_poster_en.jpg
+videolevel_E9D9A2A6_F0FC_ECB2_41DC_9B3BBC27F276.url = media/video_E4825ED7_F095_F492_41DB_DC789DEB542C_en.mp4
+videolevel_E9D9A2A6_F0FC_ECB2_41DC_9B3BBC27F276.posterURL = media/video_E4825ED7_F095_F492_41DB_DC789DEB542C_poster_en.jpg
+videolevel_E9DDC328_F0FC_EDBE_41C0_7C8E5EDD987C.url = media/video_E59E1444_F0F7_ABF6_41E2_C49015E734EF_en.mp4
+videolevel_E9DDC328_F0FC_EDBE_41C0_7C8E5EDD987C.posterURL = media/video_E59E1444_F0F7_ABF6_41E2_C49015E734EF_poster_en.jpg
+videolevel_E9DCA2FD_F0FC_EC97_41C7_0B1ABB59DAAA.url = media/video_E5E861A1_F0ED_6CAE_41E2_07387D980892_en.mp4
+videolevel_E9DCA2FD_F0FC_EC97_41C7_0B1ABB59DAAA.posterURL = media/video_E5E861A1_F0ED_6CAE_41E2_07387D980892_poster_en.jpg
+videolevel_E9C69253_F0FC_EF92_41ED_F0D049763579.url = media/video_E623403D_F095_6B96_41C9_8FF67458F27A_en.mp4
+videolevel_E9C69253_F0FC_EF92_41ED_F0D049763579.posterURL = media/video_E623403D_F095_6B96_41C9_8FF67458F27A_poster_en.jpg
+
+### Video Subtitles
+
+## Skin
+
+### Button
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC.label = AMENITIES >
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC_mobile.label = AMENITIES >
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E_mobile.label = INFORMACIÓN >
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.label = INFORMACIÓN >
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC_mobile.pressedLabel = Inserdt Text
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC.pressedLabel = Inserdt Text
+Button_0A054365_2D09_CB9F_4145_8C365B373D19_mobile.label = PERSPECTIVAS >
+Button_0A054365_2D09_CB9F_4145_8C365B373D19.label = PERSPECTIVAS >
+Button_1D0C50DE_2D07_C6AD_41C1_CF4547A6CFAB.label = RESTAURANTS >
+Button_1D0C50DE_2D07_C6AD_41C1_CF4547A6CFAB_mobile.label = RESTAURANTS >
+Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF.label = SPORTS AREA >
+Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF_mobile.label = SPORTS AREA >
+Button_0399826A_2D79_4594_41BA_934A50D0E6B4_mobile.label = SWIMMING POOL >
+Button_0399826A_2D79_4594_41BA_934A50D0E6B4.label = SWIMMING POOL >
+
+### Image
+Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19.url = skin/Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_en.png
+Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_mobile.url = skin/Image_0435F73B_2D0F_4BF4_4181_65F86A8DAC19_mobile_en.png
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_en.jpg
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_mobile.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_mobile_en.jpg
+Image_1E18723C_57F1_802D_41C5_8325536874A5.url = skin/Image_1E18723C_57F1_802D_41C5_8325536874A5_en.jpg
+Image_1E18723C_57F1_802D_41C5_8325536874A5_mobile.url = skin/Image_1E18723C_57F1_802D_41C5_8325536874A5_mobile_en.jpg
+Image_1E19C23C_57F1_802D_41D1_9DC72DB5C1E1.url = skin/Image_1E19C23C_57F1_802D_41D1_9DC72DB5C1E1_en.jpg
+Image_1E19C23C_57F1_802D_41D1_9DC72DB5C1E1_mobile.url = skin/Image_1E19C23C_57F1_802D_41D1_9DC72DB5C1E1_mobile_en.jpg
+Image_9FB32D93_8A9E_2F52_41DA_B064EDB0DE4B.url = skin/Image_9FB32D93_8A9E_2F52_41DA_B064EDB0DE4B_en.png
+Image_9FB32D93_8A9E_2F52_41DA_B064EDB0DE4B_mobile.url = skin/Image_9FB32D93_8A9E_2F52_41DA_B064EDB0DE4B_mobile_en.png
+
+### Multiline Text
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:23px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:23px;font-family:'Oswald';"><B><I>Plataforma de Inducción</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:9.3px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:3.08px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:12px;font-family:'Oswald';"><B>Bienvenido al sistema de inducción de Hidrovías del Paraguay.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.71px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:3.08px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;">Esta plataforma está diseñada para el acostumbramiento de los nuevos y actuales colaboradores así como el aprendizaje de los protocolos de seguridad.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;">Al mismo tiempo, servirá para referencias acerca de las distintas áreas de la embarcación y sus funciones. Cabe resaltar que cada área tiene normativas de seguridad distintas y es vital seguirlas a cabalidad.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;">Para mayor información, comunicarse con el departamento de seguridad ocupacional en caso de dudas.</SPAN></SPAN></DIV></div>
+HTMLText_1E18423C_57F1_802D_41C4_458DB7F892AC_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:14px;font-family:'Oswald';"><B><I>DANIEL VILLALBA</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:12px;font-family:'Oswald';"><I>Gerente - Seguridad Ocupacional</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:8.05px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:4.2px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:12px;font-family:'Oswald';"><I>Tel.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:12px;font-family:'Oswald';"><I>daniel@hbsa.com.br</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:12px;font-family:'Oswald';"><I>www.hbsa.com.br</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.2px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:4.2px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:4.2px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:4.2px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_1E18123C_57F1_802D_41D2_B0CD0D6533F4_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21.3219px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21.32px;font-family:'Oswald';"><B><I>Contacto</I></B></SPAN></SPAN></DIV></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:40.94519999999999px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:40.95px;font-family:'Oswald';"><B><I>Plataforma de Inducción</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:18.6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6.17px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:18.5952px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:18.6px;font-family:'Oswald';"><B>Bienvenido al sistema de inducción de Hidrovías del Paraguay.</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:7.42px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6.17px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">Esta plataforma está diseñada para el acostumbramiento de los nuevos y actuales colaboradores así como el aprendizaje de los protocolos de seguridad.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">Al mismo tiempo, servirá para referencias acerca de las distintas áreas de la embarcación y sus funciones. Cabe resaltar que cada área tiene normativas de seguridad distintas y es vital seguirlas a cabalidad.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">Para mayor información, comunicarse con el departamento de seguridad ocupacional en caso de dudas.</SPAN></SPAN></DIV></div>
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_1E18123C_57F1_802D_41D2_B0CD0D6533F4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:74.7384px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:74.74px;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:42.6438px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:42.64px;font-family:'Oswald';"><B><I>Contacto</I></B></SPAN></SPAN></DIV></div>
+HTMLText_1E18423C_57F1_802D_41C4_458DB7F892AC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:23.065199999999997px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:23.07px;font-family:'Oswald';"><B><I>DANIEL VILLALBA</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:20.293799999999997px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20.29px;font-family:'Oswald';"><I>Gerente - Seguridad Ocupacional</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16.09px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:8.4px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:18.8634px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:18.86px;font-family:'Oswald';"><I>Tel.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:18.8634px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:18.86px;font-family:'Oswald';"><I>daniel@hbsa.com.br</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:18.8634px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:18.86px;font-family:'Oswald';"><I>www.hbsa.com.br</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:8.4px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:8.4px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:8.4px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:8.4px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:11.175000000000002px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:11.18px;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+tour.description = Plataforma de Inducción
+
+### Title
+tour.name = Hidrovías 1
